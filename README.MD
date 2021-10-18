@@ -1,7 +1,3 @@
-![Pankaj Sharma Banner](https://raw.githubusercontent.com/im-pankaj-00/im-pankaj-00/master/assets/Pankaj%20Sharma%20Banner.jpg)
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Pankaj</h2>
-
 <!-- ## 👋 &nbsp;Hey there! I'm Pankaj -->
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -11,8 +7,6 @@
 🌱 &nbsp;I'm on track for learning more about Android and Java.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at psharma0135@gmail.com! I'll try to respond as soon as I can.\
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/im-pankaj-00/im-pankaj-00/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
