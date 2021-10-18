@@ -1,6 +1,6 @@
 ![Pankaj Sharma Banner](https://raw.githubusercontent.com/im-pankaj-00/im-pankaj-00/master/assets/Pankaj%20Sharma%20Banner.jpg)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Pankaj</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Pankaj -->
 
