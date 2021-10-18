@@ -1,6 +1,8 @@
-### &nbdp; Hey there 👋, I'm Pankaj Sharma!
+### &nbs; Hey there 👋, I'm Pankaj!
+---------------------------------------
 
 ### 👨🏻‍💻 &nbsp;About Me
+-------------------------
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm recently completed Computer Science & Engineering from the Rajasthan Technical University Kota.\
@@ -9,6 +11,7 @@
 ✉️ &nbsp;You can shoot me an email at psharma0135@gmail.com! I'll try to respond as soon as I can.\
 
 ### 🛠 &nbsp;Tech Stack
+--------------------------
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -23,6 +26,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
+---------------------------------
 
 <p align="center">
 <a href="https://github.com/im-pankaj-00">
