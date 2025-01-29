@@ -40,8 +40,8 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/im-pankaj-00"><img src="https://img.shields.io/badge/-Pankaj%20Sharma-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:psharma0135@gmail.com"><img src="https://img.shields.io/badge/-psharma0135@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/im_pankaj_00"><img src="https://img.shields.io/badge/-@im_pankaj_00-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:sharmapankaj0134@gmail.com"><img src="https://img.shields.io/badge/-sharmapankaj0134@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/pankaj.sharma099"><img src="https://img.shields.io/badge/-@pankaj.sharma099-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 
