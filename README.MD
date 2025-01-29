@@ -8,7 +8,7 @@
 🎓 &nbsp;I'm recently completed Computer Science & Engineering from the Rajasthan Technical University Kota.\
 🌱 &nbsp;I'm on track for learning more about Android and Java.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at psharma0135@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at sharmapankaj0134@gmail.com! I'll try to respond as soon as I can.\
 
 ### 🛠 &nbsp;Tech Stack
 --------------------------
